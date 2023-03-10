@@ -15,7 +15,7 @@ public class Manga {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    private Integer id;  //long?
+    private Integer id;
 
     private String title;
 
