@@ -1,0 +1,7 @@
+com\exercise\Crud\controller\MangaController.class
+com\exercise\Crud\repository\iMangaRepo.class
+com\exercise\Crud\controller\api\MangaCotrollerApi.class
+com\exercise\Crud\service\iMangaService.class
+com\exercise\Crud\model\Manga.class
+com\exercise\Crud\CrudApplication.class
+com\exercise\Crud\service\DbMangaService.class
